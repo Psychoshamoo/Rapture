@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: Rapture
+## Author: Psychoshamoo of Dalvengyr
+## Version: 1.0
+## Notes: Adds an indicator when your rapture cooldown has come back up.
+## DefaultState: Enabled
+
+main.lua
